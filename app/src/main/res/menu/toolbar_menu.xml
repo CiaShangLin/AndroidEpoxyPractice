@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showData"
+        android:title="顯示資料" />
+    <item
+        android:id="@+id/switchLayout"
+        android:title="切換Layout" />
+</menu>
